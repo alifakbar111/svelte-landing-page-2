@@ -1,0 +1,21 @@
+:root {
+    --primary: #7473fb;
+    --light: #fff;
+	--grey: #f8f9fa;
+}
+
+.is-primary {
+    background: var(--primary) !important;
+}
+
+.light-color {
+	color: var(--light);
+}
+
+.grey-bgcolor {
+	background: var(--grey);
+}
+
+.has-text-primary{
+    color: var(--primary) !important;
+}
